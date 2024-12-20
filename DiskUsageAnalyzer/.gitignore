@@ -1,0 +1,25 @@
+
+---
+
+### .gitignore
+
+```plaintext
+# Файли та папки віртуального середовища
+venv/
+*.pyc
+__pycache__/
+
+# Налаштування IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
+
+# Секретні файли
+.env
+
+# Інші системні файли
+.DS_Store
+Thumbs.db
+.idea
